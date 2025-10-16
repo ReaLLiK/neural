@@ -1,0 +1,2 @@
+def aboba():
+    print("aboba")
